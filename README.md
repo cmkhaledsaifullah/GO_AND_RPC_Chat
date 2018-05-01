@@ -12,11 +12,13 @@ Maximum user are 20.
 
 TO run the program clone the whole project and then write simple two commands:
 
-First command: 
-./[cloned file location]/server/server                    #it will initialize the server
+First command:
+
+./[cloned file location]/server/server           
 
 Second Command:
-/[cloned_file_location]/client/client                     # It will open a user comamnd line interface.
+
+/[cloned_file_location]/client/client                     
 
 You can open upto 20 commandline interface for one server. To see the source code browse the server and client directory
 
